@@ -73,7 +73,7 @@ if exist "%zipMain%" (
 :: ===========================
 :copy
 echo Updating S-Drive
-robocopy "%workRoot%/S-Drive-main/" "%drltr%:/" /E /PURGE /z
+robocopy "%workRoot%/S-Drive-main/" "%drltr%:/" /E /PURGE /z /xf *.md
 goto finish
 
 
@@ -94,3 +94,4 @@ if exist "%zipMain%" del /q "%zipMain%"
 if exist "%zipMaster%" del /q "%zipMaster%"
 if exist "%workRoot%" rd /s /q "%workRoot%"
 pause
+
