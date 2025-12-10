@@ -1,0 +1,58 @@
+@echo off
+color 2f
+title S-Drive by Shammy
+echo Cleanup and update S-Drive
+echo _____________________________________
+echo .
+
+echo Perform this operation often to keep S-Drive
+echo virus free and keep all utilities up to date.
+echo .
+echo For any modifications or suggestions please contact
+echo Shammy so he can approve and apply the changes.
+echo www.shamrockcossar.com
+echo .
+echo .
+
+
+:admin_check
+net session >nul 2>&1
+if %errorLevel% == 0 (
+goto update
+) else (
+goto fail
+)
+
+:update
+echo Please enter the drive letter of S-Drive
+set /p drltr=
+
+echo For most cases you do not need to format S-Drive
+echo !You will need to copy this batch file in order to do so first!
+echo Would you like to format S-Drive (y/n)
+set /p fmt=
+
+
+if %fmt% == y echo Formatting...
+title S-Drive by Shammy (%drltr%)
+if %fmt% == y format %drltr%: /Q /FS:ntfs /x /v:S-Drive
+
+net use \\shamrockcossar.com /USER:kookaburra "kookaburra"
+robocopy "\\shamrockcossar.com\Software\S-Drive" "%drltr%:/" /E /PURGE /z
+goto finish
+
+
+
+:fail
+echo Please run this script as Administrator to continue
+goto end
+
+
+:finish
+echo Finished :)
+echo S-Drive by Shammy is up to date
+goto end
+
+
+:end
+pause
