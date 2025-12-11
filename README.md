@@ -16,61 +16,58 @@ Alternatively, you can just download any tool that you require from above as nee
 ## Applications
 * GSmart Control
 * HWinfo
-* Macrorit Partition Expoert
-* Testdisk
+* Macrorit Partition Expert - Pretty powerful partition editor
+* Testdisk - Advanced CLI data recovery software
 * adware-removal-tool-by-tsa 
 * adwcleaner 
-* Autoruns 
-* BatteryInfoView
-* BlueScreenView
+* Autoruns - View EVERYTHING thats set to auto run on boot
+* BatteryInfoView - View battery health and info
+* BlueScreenView - View BSOD data dumps
 * CCleaner
 * Core Temp
 * CPU-Z
 * CrystalDiskInfo
 * DDU
-* Disable Fastboot
-* Dynamic DiskPartitioner
-* FileASSASSIN
+* Disable Fastboot - Powershell script to turn off fast boot
+* Dynamic DiskPartitioner - Basic partition editor
+* FileASSASSIN - Force delete any file
 * Fix File system errors (CHKDSK)
 * Folder2Iso
 * HitmanPro
-* KccSetup
-* keyboardtestutility
+* keyboardtestutility - - Cool little utility to see what keyboard buttons are being pressed
 * macrium_reflect_setup
 * Malwarebytes
 * MBSetup
 * MouseJiggle
 * OCCT
-* OfficeSetup
 * PatchCleaner
 * PC-Decrapifier
 * Prime95
 * ProcessExplorer
-* Recuva
+* Recuva - GUI data recovery
 * Reduce Windows EDB
 * Reinstall Windows Defender after Win11 Upgrade
-* Renamer
+* Renamer - A useful tool to bulk rename files based on rules
 * Revealer
 * Revo Uninstaller
 * rufus
 * SeaToolsWindowsInstaller
-* Set Storage Sense
-* SFC and DISM
+* Set Storage Sense - Powershell script to set Storage Sense options
+* SFC and DISM - Batch file that runs various SFC and DISM commands
 * SoftKeyRevealer
 * Sophos Virus Removal Tool
 * SophosScanAndClean
-* SpaceSniffer
+* SpaceSniffer - Scans a disk and visualises whats taking up the most space
 * Speccy
 * Super Anti Spyware
 * SUPERAntiSpyware
-* Teams_Windows
-* TreeSizeFree
-* Unstoppable Copier
-* WinDirStat
-* Windows10Upgrade
-* Windows11InstallationAssistant
-* WindowsPCHealthCheckSetup
-* Wireless Network Passwords
+* TreeSizeFree - Scans a disk and visualises whats taking up the most space
+* Unstoppable Copier - Awesome tool to batch copy files. Pretty much is unstoppable in terms of errors and retires
+* WinDirStat - Scans a disk and visualises whats taking up the most space
+* Windows10Upgrade - Upgrade from any version of Windows to Windows 10
+* Windows11InstallationAssistant - Upgrade to Windows 11
+* WindowsPCHealthCheckSetup - Required to upgrade to Windows 11
+* Wireless Network Passwords - Utility to view all saved SSID passwords stored on a PC
 
 
 ## The story behind S-Drive
