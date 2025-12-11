@@ -34,7 +34,7 @@ Alternatively, you can just download any tool that you require from above as nee
 * Fix File system errors (CHKDSK)
 * Folder2Iso
 * HitmanPro
-* keyboardtestutility - - Cool little utility to see what keyboard buttons are being pressed
+* keyboardtestutility - Cool little utility to see what keyboard buttons are being pressed
 * macrium_reflect_setup
 * Malwarebytes
 * MBSetup
