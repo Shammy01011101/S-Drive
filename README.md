@@ -1,9 +1,6 @@
 # S-Drive by Shammy
 S-Drive hosts my collection of useful tools required in the tech support industry. 
 
-## Applications
-List applications here-
-
 ## Useful online tools
 * Password Pusher - https://eu.pwpush.com/
 * IT Tools - https://tools.shamrockcossar.com/
@@ -11,6 +8,65 @@ List applications here-
 * NBN Techology Map - https://nbn.lukeprior.com/
 * PtP Calculator - https://link.ui.com/#
 * ACMA Tower Map - https://web.acma.gov.au/rrl/site_proximity.nearby_sites
+
+## Applications
+* GSmart Control
+* HWinfo
+* Macrorit Partition Expoert
+* Testdisk
+* adware-removal-tool-by-tsa 
+* adwcleaner 
+* Autoruns 
+* BatteryInfoView
+* BlueScreenView
+* CCleaner
+* Core Temp
+* CPU-Z
+* CrystalDiskInfo
+* DDU
+* Disable Fastboot
+* Dynamic DiskPartitioner
+* FileASSASSIN
+* Fix File system errors (CHKDSK)
+* Folder2Iso
+* HitmanPro
+* KccSetup
+* keyboardtestutility
+* macrium_reflect_setup
+* Malwarebytes
+* MBSetup
+* MouseJiggle
+* OCCT
+* OfficeSetup
+* PatchCleaner
+* PC-Decrapifier
+* Prime95
+* ProcessExplorer
+* Recuva
+* Reduce Windows EDB
+* Reinstall Windows Defender after Win11 Upgrade
+* Renamer
+* Revealer
+* Revo Uninstaller
+* rufus
+* SeaToolsWindowsInstaller
+* Set Storage Sense
+* SFC and DISM
+* SoftKeyRevealer
+* Sophos Virus Removal Tool
+* SophosScanAndClean
+* SpaceSniffer
+* Speccy
+* Super Anti Spyware
+* SUPERAntiSpyware
+* Teams_Windows
+* TreeSizeFree
+* Unstoppable Copier
+* WinDirStat
+* Windows10Upgrade
+* Windows11InstallationAssistant
+* WindowsPCHealthCheckSetup
+* Wireless Network Passwords
 
 
 ### The story behind S-Drive
