@@ -80,4 +80,4 @@ This system allowed me to replicate the S-Drive multiple times, resulting in abo
 
 For updates, I simply updated the host server, and the changes would propagate to each S-Drive when the script was activated.
 
-I still use the S-Drive today. With the shift to more remote support, I created a cloud version of the S-Drive. By navigating to s-drive.shamrockcossar.com, I can access and download any tools via the internet.
+I still use the S-Drive today. With the shift to more remote support, I created a cloud version of the S-Drive. By navigating to s-drive.shamrockcossar.com, I can access and download any tools via the internet. It has since seen migrated away from my home server onto Github with the update scripts updated, this gives me better performance and speed
