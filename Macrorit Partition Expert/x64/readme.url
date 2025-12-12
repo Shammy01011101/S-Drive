@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://macrorit.com/disk-surface-test/disk-surface-test.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://macrorit.com/partition-magic-manager/free-edition.html
+IDList=
+IconFile=http://macrorit.com/images/ico/logo.png
+IconIndex=1
+HotKey=0
