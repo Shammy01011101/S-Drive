@@ -33,7 +33,7 @@ set /p drltr=
 
 
 echo For most cases you do not need to format S-Drive
-echo !You will need to copy this batch file in order to do so first!
+echo You will need to copy this batch file in order to do so first
 echo Would you like to format S-Drive (y/n)
 set /p fmt=
 
@@ -94,4 +94,5 @@ if exist "%zipMain%" del /q "%zipMain%"
 if exist "%zipMaster%" del /q "%zipMaster%"
 if exist "%workRoot%" rd /s /q "%workRoot%"
 pause
+
 
