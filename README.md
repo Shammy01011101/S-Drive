@@ -39,10 +39,10 @@ Alternatively, you can just download any tool that you require from above as nee
 * Malwarebytes
 * MBSetup
 * MouseJiggle
-* OCCT
+* OCCT - Hardware stress testing software
 * PatchCleaner
 * PC-Decrapifier
-* Prime95
+* Prime95 - CPU stress testing software
 * ProcessExplorer
 * Recuva - GUI data recovery
 * Reduce Windows EDB
