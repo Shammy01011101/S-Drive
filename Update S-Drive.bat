@@ -54,7 +54,7 @@ mkdir "%workRoot%" >nul 2>&1
 :: Download ZIP with PowerShell
 :: ===========================
 :fetch_zip
-echo Fetching ZIP from GitHub 
+echo Fetching S-Drive from GitHub 
 set "zipMain=%TEMP%\S-Drive-main.zip"
 
 
@@ -94,5 +94,6 @@ if exist "%zipMain%" del /q "%zipMain%"
 if exist "%zipMaster%" del /q "%zipMaster%"
 if exist "%workRoot%" rd /s /q "%workRoot%"
 pause
+
 
 
