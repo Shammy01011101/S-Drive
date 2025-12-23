@@ -38,7 +38,8 @@ Alternatively, you can just download any tool that you require from above as nee
 * Recuva - GUI data recovery
 * Reduce Windows EDB
 * Reinstall Windows Defender after Win11 Upgrade
-* Renamer - A useful tool to bulk rename files based on rules
+* Renamer
+  A useful tool to bulk rename files based on rules
 * Revo Uninstaller
 * Set Storage Sense - Powershell script to set Storage Sense options
 * SFC and DISM - Batch file that runs various SFC and DISM commands
