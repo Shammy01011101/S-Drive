@@ -23,11 +23,7 @@ Alternatively, you can just download any tool that you require from above as nee
 * Autoruns - View EVERYTHING thats set to auto run on boot
 * BatteryInfoView - View battery health and info
 * BlueScreenView - View BSOD data dumps
-* CCleaner
 * Core Temp
-* CPU-Z
-* CrystalDiskInfo
-* DDU
 * Disable Fastboot - Powershell script to turn off fast boot
 * Dynamic DiskPartitioner - Basic partition editor
 * FileASSASSIN - Force delete any file
@@ -35,32 +31,21 @@ Alternatively, you can just download any tool that you require from above as nee
 * Folder2Iso
 * HitmanPro
 * keyboardtestutility - Cool little utility to see what keyboard buttons are being pressed
-* macrium_reflect_setup
-* Malwarebytes
-* MBSetup
 * MouseJiggle
 * OCCT - Hardware stress testing software
-* PatchCleaner
-* PC-Decrapifier
 * Prime95 - CPU stress testing software
-* ProcessExplorer
+* Process Explorer
 * Recuva - GUI data recovery
 * Reduce Windows EDB
 * Reinstall Windows Defender after Win11 Upgrade
 * Renamer - A useful tool to bulk rename files based on rules
-* Revealer
 * Revo Uninstaller
-* rufus
-* SeaToolsWindowsInstaller
 * Set Storage Sense - Powershell script to set Storage Sense options
 * SFC and DISM - Batch file that runs various SFC and DISM commands
 * SoftKeyRevealer
-* Sophos Virus Removal Tool
 * SophosScanAndClean
 * SpaceSniffer - Scans a disk and visualises whats taking up the most space
-* Speccy
 * Super Anti Spyware
-* SUPERAntiSpyware
 * TreeSizeFree - Scans a disk and visualises whats taking up the most space
 * Unstoppable Copier - Awesome tool to batch copy files. Pretty much is unstoppable in terms of errors and retires
 * WinDirStat - Scans a disk and visualises whats taking up the most space
