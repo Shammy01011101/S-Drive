@@ -14,7 +14,7 @@ Alternatively, you can just download any tool that you require from above as nee
 
 
 ## Applications
-* GSmart Control
+* HDDScan
 * HWinfo
 * Macrorit Partition Expert - Pretty powerful partition editor
 * Testdisk - Advanced CLI data recovery software
