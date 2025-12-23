@@ -46,8 +46,10 @@ Alternatively, you can just download any tool that you require from above as nee
 * SophosScanAndClean
 * SpaceSniffer - Scans a disk and visualises whats taking up the most space
 * Super Anti Spyware
-* TreeSizeFree - Scans a disk and visualises whats taking up the most space
-* Unstoppable Copier - Awesome tool to batch copy files. Pretty much is unstoppable in terms of errors and retires
+* TreeSizeFree  
+  _Scans a disk and visualises whats taking up the most space_
+* Unstoppable Copier  
+  _Awesome tool to batch copy files. Pretty much is unstoppable in terms of errors and retires_
 * WinDirStat - Scans a disk and visualises whats taking up the most space
 * Windows10Upgrade - Upgrade from any version of Windows to Windows 10
 * Windows11InstallationAssistant - Upgrade to Windows 11
