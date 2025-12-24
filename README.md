@@ -14,47 +14,84 @@ Alternatively, you can just download any tool that you require from above as nee
 
 
 ## Applications
-* HDDScan
-* HWinfo
-* Macrorit Partition Expert - Pretty powerful partition editor
-* Testdisk - Advanced CLI data recovery software
-* adware-removal-tool-by-tsa 
-* adwcleaner 
-* Autoruns - View EVERYTHING thats set to auto run on boot
-* BatteryInfoView - View battery health and info
-* BlueScreenView - View BSOD data dumps
-* Core Temp
-* Disable Fastboot - Powershell script to turn off fast boot
-* Dynamic DiskPartitioner - Basic partition editor
-* FileASSASSIN - Force delete any file
-* Fix File system errors (CHKDSK)
-* Folder2Iso
-* HitmanPro
-* keyboardtestutility - Cool little utility to see what keyboard buttons are being pressed
-* MouseJiggle
-* OCCT - Hardware stress testing software
-* Prime95 - CPU stress testing software
-* Process Explorer
-* Recuva - GUI data recovery
-* Reduce Windows EDB
-* Reinstall Windows Defender after Win11 Upgrade
-* Renamer - A useful tool to bulk rename files based on rules
-* Revo Uninstaller
-* Set Storage Sense - Powershell script to set Storage Sense options
-* SFC and DISM - Batch file that runs various SFC and DISM commands
-* SoftKeyRevealer
-* SophosScanAndClean
-* SpaceSniffer - Scans a disk and visualises whats taking up the most space
-* Super Anti Spyware
+* HDDScan  
+  _Scan Hard drives and check health_
+* HWinfo  
+  _View all hardware info including temp sensors_
+* Macrorit Partition Expert  
+  _Pretty powerful partition editor_
+* Testdisk  
+  _Advanced CLI data recovery software_
+* adware-removal-tool-by-tsa  
+  _Adware removal_
+* adwcleaner  
+   _Adware removal_
+* Autoruns  
+  _View EVERYTHING thats set to auto run on boot_
+* BatteryInfoView  
+  _View battery health and info_
+* BlueScreenView  
+  _View BSOD data dumps_
+* Core Temp  
+  _View CPU core temperatures_
+* Disable Fastboot  
+  _Powershell script to turn off fast boot_
+* Dynamic DiskPartitioner  
+  _Basic partition editor_
+* FileASSASSIN  
+  _Force delete any file_
+* Fix File system errors (CHKDSK)  
+  _CMD script to run Check Disk_
+* Folder2Iso  
+  _Create an ISO file from a folder_
+* HitmanPro  
+  _Virus removal tool_
+* keyboardtestutility  
+  _Cool little utility to see what keyboard buttons are being pressed_
+* MouseJiggle  
+  _Utility that will move the mouse by a pixel every second. Prevents the PC from going to sleep_
+* OCCT  
+  _Hardware stress testing software_
+* Prime95  
+  _CPU stress testing software_
+* Process Explorer  
+  _View every process running_
+* Recuva  
+  _GUI data recovery_
+* Reduce Windows EDB  
+  _CMD script to reduce the size of Windows Search Index_
+* Reinstall Windows Defender after Win11 Upgrade  
+  _Powershell script_
+* Renamer  
+  _A useful tool to bulk rename files based on rules_
+* Revo Uninstaller  
+  _Tool to assist with uninstalling software_
+* Set Storage Sense  
+  _Powershell script to set Storage Sense options_
+* SFC and DISM  
+  _Batch file that runs various SFC and DISM commands_
+* SoftKeyRevealer  
+  _View installed product keys_
+* SophosScanAndClean  
+  _Virus removal tool_
+* SpaceSniffer  
+  _Scans a disk and visualises whats taking up the most space_
+* Super Anti Spyware  
+  _Virus removal tool_
 * TreeSizeFree  
   _Scans a disk and visualises whats taking up the most space_
 * Unstoppable Copier  
   _Awesome tool to batch copy files. Pretty much is unstoppable in terms of errors and retires_
-* WinDirStat - Scans a disk and visualises whats taking up the most space
-* Windows10Upgrade - Upgrade from any version of Windows to Windows 10
-* Windows11InstallationAssistant - Upgrade to Windows 11
-* WindowsPCHealthCheckSetup - Required to upgrade to Windows 11
-* Wireless Network Passwords - Utility to view all saved SSID passwords stored on a PC
+* WinDirStat  
+  _Scans a disk and visualises whats taking up the most space_
+* Windows10Upgrade  
+  _Upgrade from any version of Windows to Windows 10_
+* Windows11InstallationAssistant  
+  _Upgrade to Windows 11_
+* WindowsPCHealthCheckSetup  
+  _Required to upgrade to Windows 11_
+* Wireless Network Passwords  
+  _Utility to view all saved SSID passwords stored on a PC_
 
 
 ## The story behind S-Drive
