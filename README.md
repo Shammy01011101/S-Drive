@@ -56,7 +56,7 @@ Alternatively, you can just download any tool that you require from above as nee
   _CPU stress testing software_
 * Process Explorer  
   _View every process running_
-* Profwiz
+* Profwiz  
   _Windows user account migration tool_
 * Recuva  
   _GUI data recovery_
