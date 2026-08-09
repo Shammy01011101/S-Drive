@@ -1,20 +1,23 @@
-
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
 color 2f
 title S-Drive by Shammy
 
-echo Cleanup and update S-Drive
+echo S-Drive by Shammy
 echo _____________________________________
-echo.
+echo .
+echo .
+echo .
+echo .
+echo _____________________________________
 echo Perform this operation often to keep S-Drive
 echo virus free and keep all utilities up to date.
-echo .
+echo _____________________________________
 echo For any modifications or suggestions please contact
 echo Shammy so he can approve and apply the changes.
 echo www.shamrockcossar.com
-echo .
-echo .
+echo _____________________________________
+echo _____________________________________
 
 :: ===========================
 :: Admin rights check
