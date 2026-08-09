@@ -4,20 +4,20 @@ color 2f
 title S-Drive by Shammy
 
 echo S-Drive by Shammy
-echo _____________________________________
+echo ____________________________________________
 echo .
 echo .
 echo .
 echo .
-echo _____________________________________
+echo ____________________________________________
 echo Perform this operation often to keep S-Drive
 echo virus free and keep all utilities up to date.
-echo _____________________________________
+echo ____________________________________________
 echo For any modifications or suggestions please contact
 echo Shammy so he can approve and apply the changes.
 echo www.shamrockcossar.com
-echo _____________________________________
-echo _____________________________________
+echo ____________________________________________
+echo ____________________________________________
 
 :: ===========================
 :: Admin rights check
